@@ -10,7 +10,7 @@ Repository ini berisi kumpulan materi dan hands-on untuk mata kuliah TT25-31005 
 
 | No. | Topik               | Deskripsi                                              | Notebook                                                             |
 | --- | ------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
-| 1   | TBA                 | To Be Announced                                        | TBA                                                                  |
+| 1   | _CNN1D ECG Signal Classification_ | Deteksi Sinyal _Electrocardiogram_ Dengan Menggunakan _CNN1D_ | [CNN1D_ECG_Classification.ipynb](https://colab.research.google.com/drive/1l5vC-f3LDtFKthh1NY_TRmb08Xqp2fZ0#scrollTo=nuC6uN_JUtne)                                                                  |
 | 2   | Face Mask Detection | Deteksi Masker Wajah dengan _transfer learning_ YOLOv8 | [face_mask_detection_YOLOv8.ipynb](face_mask_detection_YOLOv8.ipynb) |
 
 ## Persiapan Environment (Sekali Saja)
